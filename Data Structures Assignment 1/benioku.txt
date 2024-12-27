@@ -1,0 +1,6 @@
+Rapor içerisine yazılmayan bazı noktalara burada değinilmiştir.
+Ödev boyunca, satir listesine nasıl erişim yapacağım noktasında çok vakit kaybettim.
+Program içerisindeki bütün düğümlere yönetici listesinin "head" değeri ile erişildiği için, bu sınıf için metodlar yeniden yazılmış ve ekstra maliyet oluşturmuştur.
+Bundan dolayı kod modüler olmaktan çıkıp problem kaynaklı olmaya evrilmiştir.
+Gönderilen ödev, 1 kere revize edilmiş ve okunulabilirliği artırılmış hale getirilmiştir. Kod tekrarlanma engellenmiş ancak bazı bu üstte bahsedilen 
+sebepten dolayı sağlanamamıştır. Satir Listesine, liste sınıfı ile erişemedim ve dolayısıyla buna uygun kod yazmam gerekti. 
